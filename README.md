@@ -1,6 +1,6 @@
 # Hi there, I'm Tanvir 👋
 
-<img src="[banner.png](https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif)" alt="Banner image">
+<img src="https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif" alt="Banner image">
 
 I'm a passionate flutter developer who loves creating beautiful, fast, and responsive apps for mobile, web, and desktop. I have been developing apps with flutter since 2020 and I enjoy learning new things and sharing my knowledge with others.
 
